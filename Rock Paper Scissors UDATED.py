@@ -1,4 +1,4 @@
-# coding for ROCK, PAPER, SCISSORS Game
+# code for ROCK, PAPER, SCISSORS Game
 
 import random
 
